@@ -1,3 +1,7 @@
+#Pruebas para el cambio de rama
+variable = 19947198740834
+print("Trabajando inspiradamente")
+
 import os
 import sys
 file_path = os.path.join(os.path.dirname(__file__), '..')
